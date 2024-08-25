@@ -1,0 +1,24 @@
+
+
+.id1,.id2,.id3,.id4 {
+    display: inline-block;
+    width: 230px;
+}
+h1{
+    text-align: center;
+}
+.image1,.image2,.image3,.image4 {
+    width: 180px;
+}
+h3,p{
+    width: 100;
+
+}
+.box{
+
+    border-color: rgb(70, 69, 69);
+    border-radius: 10px;
+    width: 1000px;
+    padding: 10px;
+}
+
